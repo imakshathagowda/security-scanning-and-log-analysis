@@ -49,6 +49,12 @@ Analyzed HTTP logs to detect DOM XSS, SQL Injection, and Directory Traversal.
 
 ---
 
+## 🖥️ Lab Setup
+
+- OS: Kali Linux 2024.1
+- Target VM: Metasploitable2 / DVWA / Custom Web Server
+- Tools: Nmap, grep, bash utilities
+
 ## 📂 Project Files
 
 | File/Folder               | Description                                 |
@@ -70,3 +76,15 @@ _Penetration Tester | GitHub: [@imakshathagowda](https://github.com/imakshathago
 
 ## 🏷️ Tags
 `Nmap` `Security Scanning` `Log Analysis` `XSS` `SQL Injection` `Directory Traversal` `Penetration Testing` `Network Security`
+
+---
+
+## 🧾 Conclusion
+
+This project demonstrates real-world offensive security skills, including:
+- Stealth and aggressive scanning techniques with Nmap
+- Log analysis to identify and classify common web attacks
+- Understanding of how attackers attempt to bypass security controls
+
+Each task simulates a stage in the penetration testing lifecycle, helping build both technical and analytical skills.
+
