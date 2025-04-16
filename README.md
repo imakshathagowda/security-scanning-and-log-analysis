@@ -65,3 +65,8 @@ Analyzed HTTP logs to detect DOM XSS, SQL Injection, and Directory Traversal.
 
 **Akshatha K**  
 _Penetration Tester | GitHub: [@imakshathagowda](https://github.com/imakshathagowda_
+
+---
+
+## 🏷️ Tags
+`Nmap` `Security Scanning` `Log Analysis` `XSS` `SQL Injection` `Directory Traversal` `Penetration Testing` `Network Security`
